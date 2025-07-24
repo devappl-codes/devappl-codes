@@ -1,5 +1,6 @@
 [![](https://komarev.com/ghpvc/?username=devappl-codes&color=000000)](https://github.com/devappl?tab=repositories)
 
+[![Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devappl-codes&layout=donut&theme=tokyonight)](https://github.com/devappl-codes?tab=repositories)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=devappl-codes&show_icons=true&theme=great-gatsby)](https://github.com/devappl-codes?tab=repositories)
 
 # Trophies
